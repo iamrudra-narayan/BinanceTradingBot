@@ -1,0 +1,7 @@
+.zencoder
+.zenflow
+.env
+env
+venv
+__pycache__
+trading_bot.log
